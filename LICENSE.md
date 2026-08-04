@@ -1,6 +1,7 @@
 # Creative Commons Attribution 4.0 International License
 
 ## Comstar Hospital White Paper
+**COMSTAR: The Addressable Hospital**
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
 
@@ -44,7 +45,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Attribution Example
 
-> Comstar Hospital White Paper (2026) is licensed under CC BY 4.0. Retrieved from https://github.com/zlatko-lakisic/white-papers-comstar-hospital
+> COMSTAR: The Addressable Hospital (2026) is licensed under CC BY 4.0. Retrieved from https://github.com/zlatko-lakisic/white-papers-comstar-hospital
 
 ---
 
