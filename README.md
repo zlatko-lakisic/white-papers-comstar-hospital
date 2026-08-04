@@ -63,9 +63,36 @@ Incumbents already sell pieces of this surface. The contribution argued here is 
 
 ## Companion workbook
 
-Every figure in the value case is a formula over a labeled, editable assumption:
+Illustrative figures for a ~400-bed reference facility, framed as **incremental value over tools the hospital already owns**. Soft-dollar capacity, not posts removed, except outcome 6. Every number below is a formula over an editable assumption in the workbook.
 
-**[COMSTAR_Hospital_ROI_Model.xlsx](COMSTAR_Hospital_ROI_Model.xlsx)**
+### Value by outcome
+
+| Outcome | Illustrative annual increment | FTE-equivalent | Type |
+|---|---|---|---|
+| 1. Asset location and readiness | ~$0.6M | ~3.5 | Augment |
+| 2. Room readiness and turnover | ~$0.3M | ~1.0 | Augment |
+| 3. Schedule and conflict detection | ~$0.9M | ~1.5 | Augment |
+| 4. Ambient clinical documentation | ~$0.8–1.2M | ~3.4 | Augment |
+| 5. Patient interaction | ~$0.4M | ~3.3 | Augment |
+| 6. Safety observation | ~$1.7M | ~29 | Replace |
+| **Illustrative full-scope total** | **~$5–7M** | **~40+** | **~29 actual posts only in outcome 6** |
+
+### Investment and return by scope
+
+| | Full deployment (6 outcomes, ~600 terminals) | Phase 0+1 (outcomes 1–3, ~100 terminals) |
+|---|---|---|
+| Capital | ~$2.5–4M+ | ~$0.6–1.2M |
+| Annual operating | order ~$0.8M | order ~$0.2M |
+| Illustrative annual value | ~$5–7M | ~$1.5–2.5M |
+
+### After a soft-dollar discount
+
+| Scope | Before finance discount | After ~30% soft-dollar haircut |
+|---|---|---|
+| Full deployment | ~$5–7M | ~$3.5–5M |
+| Phase 0+1 | ~$1.5–2.5M | ~$1–1.7M |
+
+**[Download the editable model (Excel)](COMSTAR_Hospital_ROI_Model.xlsx)** — replace blue input cells with the target facility's own measurements.
 
 ---
 
